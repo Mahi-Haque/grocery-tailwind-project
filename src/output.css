@@ -228,6 +228,9 @@
   .bg-red-400 {
     background-color: var(--color-red-400);
   }
+  .bg-\[url\(\.\.\/images\/dark\.png\)\] {
+    background-image: url(../images/dark.png);
+  }
   .bg-\[url\(\.\/images\/dark\.png\)\] {
     background-image: url(./images/dark.png);
   }
